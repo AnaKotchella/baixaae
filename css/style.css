@@ -125,6 +125,27 @@ footer nav p a{
     font-size: 2rem;
     margin: 0px 5px 0px 5px;
 }
+
+/*======================================================
+pagina ft works
+======================================================*/
+
+section h1 {
+    text-align: center;
+    font-size: 1.1rem;
+}
+section nav{
+    text-align: center;
+    margin: 0 5vw 0 5vw;
+}
+section ft-works{
+padding: 20px 10px 20px 10px;
+
+}
+
+
+
+
 /* CSS media query dentro de um stylesheet */
 @media (min-width: 900px) {
     header{
